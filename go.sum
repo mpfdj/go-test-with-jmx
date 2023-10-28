@@ -1,0 +1,4 @@
+github.com/apache/thrift v0.19.0 h1:sOqkWPzMj7w6XaYbJQG7m4sGqVolaW/0D28Ln7yPzMk=
+github.com/apache/thrift v0.19.0/go.mod h1:SUALL216IiaOw2Oy+5Vs9lboJ/t9g40C+G07Dc0QC1I=
+github.com/newrelic/nrjmx/gojmx v0.0.0-20230714122532-90d44704c70c h1:UC77tt3fDB0jSsduXxrOIjxe77ezfnqeXCYM96l9usU=
+github.com/newrelic/nrjmx/gojmx v0.0.0-20230714122532-90d44704c70c/go.mod h1:tDD9KR/voGBWOlqnTdXfo+oDVXhg2HD0KrYwBrgd04s=
